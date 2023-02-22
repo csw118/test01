@@ -15,6 +15,9 @@
         <也可以通过右键选择同步进行提交，该设置的基本都设置好了>
 13.  拉取远程仓库项目:   git clone     git@github.com:csw118/test01.git
        <也可以通过右键克隆进行拉取>
+14.  git fetch 和 git push的区别: git fetch 不会自动merge(合并代码),
+                                                  git push拉取并合并代码，
+                                                  实际上一般先fetch再使用merge命令
 	
 
 
