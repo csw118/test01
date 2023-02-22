@@ -3,6 +3,8 @@
 3.  提交文件:  git commit xxx.xxx  -m(备注信息)
 4.  显示有变更的文件:  git status   -s(简洁)
 5.  通过TortoiseGit选择显示日志可以看到同一个文件每次提交后的差异(通过备注信息来看)
+6. 显示日志:  git log (xxx.xxx) 
+7. 比较差异:  git diff (xxx.xxx)
 
 
 <当然可以通过鼠标右键去进行以上操作>
