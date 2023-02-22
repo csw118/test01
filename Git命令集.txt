@@ -12,7 +12,9 @@
 12.  通过命令提交到远程仓库: 
          git remote add origin(别名) git@github.com:csw118(用户名)/test01.git(项目名称)
          git push -u origin master
-
+        <也可以通过右键选择同步进行提交，该设置的基本都设置好了>
+13.  拉取远程仓库项目:   git clone     git@github.com:csw118/test01.git
+       <也可以通过右键克隆进行拉取>
 	
 
 
