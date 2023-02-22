@@ -8,6 +8,8 @@
 8.  还原修改(肯定是还原未提交的文件):  TortoiseGit选择还原
 9.  删除文件(硬盘和工作区):  git rm xxx.xxx
 10.  重命名(硬盘和工作区):  git mv  xxx.xxx  xxx.xxx
+11.  ssh密钥生成:  ssh-keygen -t rsa
+
 
 
 <当然可以通过鼠标右键去进行以上操作>
