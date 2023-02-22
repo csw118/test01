@@ -9,6 +9,12 @@
 9.  删除文件(硬盘和工作区):  git rm xxx.xxx
 10.  重命名(硬盘和工作区):  git mv  xxx.xxx  xxx.xxx
 11.  ssh密钥生成:  ssh-keygen -t rsa
+12.  通过命令提交到远程仓库: 
+         git remote add origin(别名) git@github.com:csw118(用户名)/test01.git(项目名称)
+         git push -u origin master
+
+	
+
 
 
 
